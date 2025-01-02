@@ -14,6 +14,6 @@ The contents of this repository are:
   This jupyter notebook is a shortened version of the analysis complete with introductions to the neccessary libraries and excercises with solutions suitible for a lab course.
   Its use for educational purposes is encouraged.
 
-- RootToPandas.ipynb
+- RootToCSV.ipynb
   This notebook can be used to construct the neccesary data set for the analysis from two data sets provided by the CERN Open Data Portal. All instructions are given in the notebook.
 
