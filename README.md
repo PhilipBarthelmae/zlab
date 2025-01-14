@@ -11,8 +11,12 @@ The contents of this repository are:
 - ZAnalysisThesis.ipynb
   This jupyter notebook contains the entire analysis behind the thesis.
 
-- ZExcerciseMaster.ipynb
+- ZExcerciseTutors.ipynb
   This jupyter notebook is a shortened version of the analysis complete with introductions to the neccessary libraries and excercises with solutions suitible for a lab course.
+  Its use for educational purposes is encouraged.
+
+- ZExcerciseStudens.ipynb
+  This jupyter notebook is is the Students version of the ZExcercise with the solutions removed.
   Its use for educational purposes is encouraged.
 
 - GetData.ipynb
