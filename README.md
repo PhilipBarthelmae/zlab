@@ -20,7 +20,7 @@ The contents of this repository are:
   Its use for educational purposes is encouraged.
 
 - GetData.ipynb
-  This notebook can be used to automaticall yconstruct the neccesary data set for the analysis from two data sets provided by the CERN Open Data Portal. All relevant information is given in the notebook.
+  This notebook can be used to automatically construct the neccesary data set for the analysis from two data sets provided by the CERN Open Data Portal. All relevant information is given in the notebook.
 
   ## Get started
 
